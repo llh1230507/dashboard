@@ -15,7 +15,11 @@ For the piechart it consists of cars by brands dividing into slices with Toyota 
 
 ![PinnedCar](./screen05.png)
 
+This is the highlightedcar page. This page allows owner to pin the car to the top of the page and this will help to sale out the car. Furthermore, the page consists of available cars align 4 cars in a row and when pinned the car can be removed. Each slot has a picture and name of the car and when the car is being pinned the slot also shows the price and the year of the car.
+
 <h1>3. Sales Report</h1>
 
 ![Sales](./screen03.png)
+
+This is the sales car. This page has a table that shows which car brand has been sold and number of the cars being sold.
 
