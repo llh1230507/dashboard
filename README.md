@@ -15,3 +15,7 @@ For the piechart it consists of cars by brands dividing into slices with Toyota 
 
 ![PinnedCar](./screen05.png)
 
+<h1>3.Sales Report</h1>
+
+![Sales](./screen03.png)
+
