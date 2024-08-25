@@ -21,5 +21,5 @@ This is the highlightedcar page. This page allows owner to pin the car to the to
 
 ![Sales](./screen03.png)
 
-This is the sales car. This page has a table that shows which car brand has been sold and number of the cars being sold.
+This is the sales report page. This page has a table that shows which car brand has been sold and number of the cars being sold.
 
